@@ -17,6 +17,7 @@ You can also go with your laptop gpu and cpu for training
 
 ## Results
 Validation Accuracy--> 98.7%
+Validation Loss--> 0.06
 
 ## Required Python modules
 * Tensorflow-GPU
