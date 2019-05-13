@@ -16,8 +16,8 @@ You can also go with your laptop gpu and cpu for training
 ### CONV2D(32,3,3)-->CONV2D(64,3,3)-->Maxpooling2D(2,2)-->CONV2D(128,3,3)-->CONV2D(256,3,3)-->Maxpooling(2,2)-->FLATTEN-->RELU-->SOFTMAX
 
 ## Results
-Validation Accuracy--> 98.7%
-Validation Loss--> 0.06
+* Validation Accuracy--> 98.7%
+* Validation Loss--> 0.06
 
 ## Required Python modules
 * Tensorflow-GPU
