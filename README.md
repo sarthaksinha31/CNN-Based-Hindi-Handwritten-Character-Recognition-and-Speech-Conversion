@@ -30,6 +30,8 @@ After installation of anaconda go with the jupyter notebook and open sarthak.ipy
 ## Files Information
 * Sarthak.ipynb contains the codes which is written in python language
 * madel.h5 is a trained model of 20 epochs
+* From 1.jpg to 17.jpg are the test files which I took using a web camera(https://www.amazon.in/Frontech-2244-Webcam-JIL/dp/B00F3950B2)
+* These files are uploaded using for loop in python in the block In[8] of Sarthak.ipynb file.
 
 ## Steps to run this project
 * Download the datasets which is available in UCI Machine Learning   Repository(https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset) 
