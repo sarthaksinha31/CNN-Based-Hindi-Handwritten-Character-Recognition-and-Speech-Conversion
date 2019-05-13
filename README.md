@@ -10,7 +10,7 @@ After installation of anaconda go with the jupyter notebook and open sarthak.ipy
 ## Trained on system having following configurations
 * GPU-Nvidia Tesla P100 based AI/Deep Learning Server (2x16GB) 
 * RAM - 64 GB
-You can also go with your laptop gpu and cpu for training
+### You can also go with your laptop gpu and cpu for training
 
 ## Architecture
 ### CONV2D(32,3,3)-->CONV2D(64,3,3)-->Maxpooling2D(2,2)-->CONV2D(128,3,3)-->CONV2D(256,3,3)-->Maxpooling(2,2)-->FLATTEN-->RELU-->SOFTMAX
